@@ -1,7 +1,7 @@
 {
   "name": "vim",
   "version": "1.0.0",
-  "description": "vim config.",
+  "description": "vim config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
